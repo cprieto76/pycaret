@@ -38,6 +38,10 @@ Podemos instalar el algoritmo de machine learning xgboost en el Anaconda Prompt 
 
 - pip install xgboost
 
+### Exploratory Data Analysis (EDA) PyCaret
+
+
+
 ### Trabajar en regresion con pycaret
 
 https://www.youtube.com/watch?v=OOKKN3nshlc
