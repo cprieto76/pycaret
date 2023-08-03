@@ -1,4 +1,7 @@
-# pycaret  (https://youtu.be/2PasMDMGK-I)
+## pycaret  
+https://github.com/PJalgotrader/platforms-and-tools/tree/main/PyCaret  
+https://www.youtube.com/watch?v=EaWybJqldAY&list=PL2GWo47BFyUOqCAj_16yeNspfeM0nfA6q
+(https://youtu.be/2PasMDMGK-I)
 
 Despues de instalada la distribucion Anaconda
 
@@ -31,6 +34,11 @@ Puedo ahora dar click en el kernel respectivo (pycaret3_light) y revisar la vers
 
 ![image](https://github.com/cprieto76/pycaret/assets/115907710/c858e552-28d2-463f-814c-92d86c403d7c)
 
+Podemos instalar el algoritmo de machine learning xgboost en el Anaconda Prompt o en el notebook de jupyter
 
+- pip install xgboost
 
-- 
+### Trabajar en regresion con pycaret
+
+https://www.youtube.com/watch?v=OOKKN3nshlc
+
